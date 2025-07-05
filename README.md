@@ -10,7 +10,7 @@ The provided Python file implements a simple banking system using object-oriente
 * Withdrawal Functionality: Users can withdraw money from their account, provided they have sufficient balance.
   
 * Balance Inquiry: Users can check their current account balance.
-* 
+  
 # Class Structure
 ## BankAccount
 ## Attributes:
